@@ -4,5 +4,11 @@
     "name": "Shaun",
     "email": "shaun@test.com",
     "role": "Software Engineer"
+  },
+  {
+    "id": 2,
+    "name": "Shaun",
+    "email": "shaun@test.com",
+    "role": "Software Engineer"
   }
 ]
